@@ -1,0 +1,17 @@
+[
+    {
+        "category": "satellite_data",
+        "url": "https://mosdac.gov.in/data",
+        "file": "data/raw/static/satellite_data\\mosdac.gov.in_data.html"
+    },
+    {
+        "category": "about_mosdac",
+        "url": "https://mosdac.gov.in/about",
+        "file": "data/raw/static/about_mosdac\\mosdac.gov.in_about.html"
+    },
+    {
+        "category": "gallery",
+        "url": "https://mosdac.gov.in/gallery/index.html?&prod=3SIMG_*_L1B_STD_IR1_V*.jpg",
+        "file": "data/raw/dynamic/gallery\\mosdac.gov.in_gallery_index.html__prod=3SIMG___L1B_STD_IR1_V_.jpg.html"
+    }
+]
